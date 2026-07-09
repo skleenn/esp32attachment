@@ -4547,16 +4547,6 @@
 		)
 		(uuid "ff4d797c-9b51-4dfa-93d6-90fc939f030a")
 	)
-	(label "GPIO25"
-		(at 105.41 90.17 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "003f5f9e-3b35-4f06-b024-4f30210f8ae6")
-	)
 	(label "FET_GATE6"
 		(at 140.97 128.27 180)
 		(effects
@@ -4577,6 +4567,26 @@
 		)
 		(uuid "0415c335-30a1-49e5-b910-832fa6a1e24d")
 	)
+	(label "GPIO12"
+		(at 105.41 76.2 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "0df60666-2341-468c-b655-100b52b27aea")
+	)
+	(label "FET_GATE3"
+		(at 137.16 53.34 180)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify right bottom)
+		)
+		(uuid "0ec852f1-5e60-4df1-bb7e-b72fa0243ef1")
+	)
 	(label "FET_DRAIN6"
 		(at 167.64 133.35 180)
 		(effects
@@ -4586,6 +4596,16 @@
 			(justify right bottom)
 		)
 		(uuid "0f2511d2-d887-4baf-9d9e-23a408eeabe1")
+	)
+	(label "GPIO14"
+		(at 105.41 62.23 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "1216cfa4-5f7e-4132-9f2f-d149fab96d6e")
 	)
 	(label "GPIO27"
 		(at 86.36 67.31 0)
@@ -4626,16 +4646,6 @@
 			(justify right bottom)
 		)
 		(uuid "2fdaec3f-e678-43ce-823b-0655545ca9a3")
-	)
-	(label "GPIO13"
-		(at 105.41 62.23 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "34c6cefd-c333-4d0d-8c00-a802e2f8c6dc")
 	)
 	(label "FET_GATE6"
 		(at 162.56 140.97 180)
@@ -4678,6 +4688,16 @@
 		(uuid "3f639245-a074-4dae-9254-5cf4d352c928")
 	)
 	(label "FET_GATE1"
+		(at 140.97 81.28 180)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify right bottom)
+		)
+		(uuid "5b717ba3-ae3f-46b6-833d-5210e66c7576")
+	)
+	(label "FET_GATE1"
 		(at 162.56 50.8 180)
 		(effects
 			(font
@@ -4686,6 +4706,16 @@
 			(justify right bottom)
 		)
 		(uuid "5de45e6d-ea79-4976-987e-7b80f2657083")
+	)
+	(label "GPIO25"
+		(at 104.14 48.26 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "66fd54f7-47a0-46cd-97e1-b2dfe08c426b")
 	)
 	(label "GPIO14"
 		(at 34.29 69.85 180)
@@ -4717,16 +4747,6 @@
 		)
 		(uuid "6e5e1d57-3d0d-4320-9034-2ae53dfcbcd6")
 	)
-	(label "FET_GATE3"
-		(at 140.97 81.28 180)
-		(effects
-			(font
-				(size 1.143 1.143)
-			)
-			(justify right bottom)
-		)
-		(uuid "749c3831-e5c9-4249-bcfc-8b28489008a5")
-	)
 	(label "FET_GATE2"
 		(at 162.56 68.58 180)
 		(effects
@@ -4736,26 +4756,6 @@
 			(justify right bottom)
 		)
 		(uuid "788b7355-87a5-460f-b996-c6b1c7b8c6c0")
-	)
-	(label "GPIO14"
-		(at 105.41 76.2 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "79b18ffa-9c80-4b1b-b113-8dd82e489aa5")
-	)
-	(label "FET_GATE1"
-		(at 137.16 53.34 180)
-		(effects
-			(font
-				(size 1.143 1.143)
-			)
-			(justify right bottom)
-		)
-		(uuid "7e112175-47c9-496e-be1a-9bead7082854")
 	)
 	(label "FET_DRAIN4"
 		(at 167.64 96.52 180)
@@ -4847,6 +4847,16 @@
 		)
 		(uuid "bfa21ab5-1c19-433d-9010-d3b64bf77563")
 	)
+	(label "GPIO13"
+		(at 105.41 90.17 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "c7893fb5-4637-4336-b825-a15ca2ada88f")
+	)
 	(label "FET_DRAIN2"
 		(at 203.2 63.5 180)
 		(effects
@@ -4866,16 +4876,6 @@
 			(justify left bottom)
 		)
 		(uuid "dbc27c57-570f-44d4-94c0-becf42417cb6")
-	)
-	(label "GPIO12"
-		(at 104.14 48.26 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "dcf831a2-ebc9-45c3-ab7c-ea52b2142615")
 	)
 	(label "FET_DRAIN4"
 		(at 203.2 90.17 180)

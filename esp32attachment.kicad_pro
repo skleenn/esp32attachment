@@ -226,12 +226,7 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [
-      [
-        "power_pin_not_driven|749300|304800|aec3c1df-e90d-4774-97dd-7c52d999c7bb|00000000-0000-0000-0000-000000000000|/0ac508b5-8692-4374-a5cd-0bd0e7006f31|/0ac508b5-8692-4374-a5cd-0bd0e7006f31|",
-        ""
-      ]
-    ],
+    "erc_exclusions": [],
     "meta": {
       "version": 0
     },
@@ -463,7 +458,7 @@
     "classes": [
       {
         "bus_width": 12,
-        "clearance": 0.15,
+        "clearance": 0.2,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
